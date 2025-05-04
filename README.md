@@ -63,6 +63,7 @@ A modern, interactive quiz application built with Next.js, TypeScript, and Tailw
 
 ## 🏗️ Project Structure
 
+\`\`\`
 interactive-quiz-app/
 ├── app/                  # Next.js app directory
 │   ├── layout.tsx        # Root layout
@@ -83,7 +84,7 @@ interactive-quiz-app/
 ├── data/                 # Static data
 │   └── quiz-data.ts      # Fallback quiz questions
 └── public/               # Static assets
-
+\`\`\`
 
 ## 🎯 Key Features Explained
 
